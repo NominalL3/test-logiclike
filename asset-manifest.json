@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-logiclike/static/css/main.abe96d60.css",
+    "main.css": "/test-logiclike/static/css/main.df29e361.css",
     "main.js": "/test-logiclike/static/js/main.7a96a31e.js",
     "static/js/453.12751f5b.chunk.js": "/test-logiclike/static/js/453.12751f5b.chunk.js",
     "static/media/Nunito-ExtraBold.ttf": "/test-logiclike/static/media/Nunito-ExtraBold.7415babff1752bd4ea44.ttf",
     "index.html": "/test-logiclike/index.html",
-    "main.abe96d60.css.map": "/test-logiclike/static/css/main.abe96d60.css.map",
+    "main.df29e361.css.map": "/test-logiclike/static/css/main.df29e361.css.map",
     "main.7a96a31e.js.map": "/test-logiclike/static/js/main.7a96a31e.js.map",
     "453.12751f5b.chunk.js.map": "/test-logiclike/static/js/453.12751f5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe96d60.css",
+    "static/css/main.df29e361.css",
     "static/js/main.7a96a31e.js"
   ]
 }
