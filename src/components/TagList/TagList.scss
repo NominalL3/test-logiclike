@@ -1,0 +1,36 @@
+@import "src/assets/styles/variables";
+
+.tag-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+  border: 1px #cfcfe4 solid;
+  border-radius: 18px;
+}
+
+.tag {
+  font-family: $nunito-font-800, sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 18px;
+  text-align: left;
+  padding: 12px;
+  border: none;
+  cursor: pointer;
+  width: 240px;
+  border-radius: 12px;
+  background-color: white;
+  transition: background-color 0.3s, color 0.3s;
+
+  &.selected {
+    background-color: #5fbf77;
+    color: white;
+  }
+
+  &:not(.selected):hover {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+}
